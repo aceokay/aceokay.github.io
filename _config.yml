@@ -1,5 +1,6 @@
 # Site settings
-title: AOK
+title: AK
+tagline: Dev
 email: aokincaid@gmail.com
 description: Austin Kincaid's personal portfolio.
 url: "http://aceokay.github.io" # the base hostname & protocol for your site
